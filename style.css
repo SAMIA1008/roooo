@@ -235,8 +235,12 @@ section .title::after{
 
  
 .about .title::after{
-    content: "Here are some examples";
+    content: "Sneak a Look";
 }
+.about .title::top{
+     content: "Email Swipe example";
+}
+    
 .about .about-content .left{
  width: 45%;
 }
